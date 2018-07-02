@@ -1,0 +1,1 @@
+if [ -r /etc/profile ]; then . /etc/profile; fi

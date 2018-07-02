@@ -1,0 +1,8 @@
+# Common aliases between shells
+alias ls='ls -G'
+alias la='ls -a'
+alias ll='ls -al'
+alias vi="nvim"
+alias python="python3"
+alias pip="pip3"
+alias gpip="PIP_REQUIRE_VIRTUALENV=false pip"

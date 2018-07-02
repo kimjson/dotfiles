@@ -1,0 +1,2 @@
+# /etc/profile
+brew services start redis

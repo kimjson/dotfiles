@@ -1,0 +1,47 @@
+{
+    "diffEditor.ignoreTrimWhitespace": true,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.detectIndentation": false,
+    "editor.fontSize": 10,
+    "editor.minimap.enabled": false,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": true
+    },
+    "editor.tabSize": 2,
+    "files.autoSave": "onFocusChange",
+    "files.trimTrailingWhitespace": true,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "php.executablePath": "/usr/local/Cellar/php70/7.0.22_14/bin/php",
+    "php.suggest.basic": false,
+    "php.validate.executablePath": "/usr/local/Cellar/php70/7.0.22_14/bin/php",
+    "php.validate.run": "onType",
+    "python.disablePromptForFeatures": [
+        "pylint"
+    ],
+    "ruby.codeCompletion": "rcodetools",
+    "ruby.intellisense": "rubyLocate",
+    "terminal.integrated.fontFamily": "Source Code Pro for Powerline",
+    "workbench.colorTheme": "Monokai",
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "[javascript]": {
+        "editor.tabSize": 2
+    },
+    "[html]": {
+        "editor.detectIndentation": false,
+        "editor.tabSize": 2
+    },
+    "[jinja]": {
+        "editor.detectIndentation": false,
+        "editor.tabSize": 2
+    },
+    "[python]": {
+        "editor.detectIndentation": false,
+        "editor.tabSize": 4
+    },
+    "[ruby]": {
+      "editor.rulers": [80]
+    }
+}
