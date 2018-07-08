@@ -4,7 +4,7 @@ export PATH=/usr/local/bin:/usr/local/sbin:$PATH
 # Java setting
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home
 
-# pip, pyenv
+# pip
 export PIP_REQUIRE_VIRTUALENV=true # virtualenv가 activate가 된 상태에서만 pip가 실행될 수 있도록 한다.
 export PIP_DOWNLOAD_CACHE=$HOME/.pip/cache
 
