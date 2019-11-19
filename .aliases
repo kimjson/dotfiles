@@ -1,0 +1,4 @@
+alias worktree-add="source worktree-add"
+alias worktree-cd="source worktree-cd"
+alias zsh-reload="source ~/.zshrc"
+alias check-port="lsof -Pn -i4 | grep"
