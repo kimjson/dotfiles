@@ -1,0 +1,5 @@
+#!/bin/zsh
+cd ~/work/www
+mv $2 ~/.Trash
+git worktree prune
+git branch -D $1
