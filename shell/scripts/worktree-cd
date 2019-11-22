@@ -1,0 +1,2 @@
+#!/bin/zsh
+cd ~/work/www/$1
